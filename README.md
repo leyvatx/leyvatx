@@ -1,24 +1,52 @@
-# <picture><source media="(prefers-color-scheme: dark)" srcset="icons/hand-waving-dark.svg"><img src="icons/hand-waving.svg" width="32" height="32" alt=""></picture> Hola, soy Efraín Leyva
+<div align="center">
 
-**Software Engineer · Full-Stack Developer** en Tijuana, B.C., México.
+# Efraín Leyva
 
-Ingeniero en Desarrollo y Gestión de Software con dos años construyendo software en producción para **manufactura, logística y comercio exterior**: integraciones con ERPs, sistemas de RH con machine learning, migración de sistemas legados y plataformas SaaS en tiempo real.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&width=520&lines=Software+Engineer+%C2%B7+Full-Stack+Developer;Integraci%C3%B3n+de+ERPs+y+sistemas+legados;SaaS+multiempresa+en+tiempo+real" alt="Software Engineer · Full-Stack Developer"></a>
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="icons/rocket-launch-dark.svg"><img src="icons/rocket-launch.svg" width="22" height="22" alt=""></picture> Lo que he construido
+<picture><source media="(prefers-color-scheme: dark)" srcset="icons/map-pin-dark.svg"><img src="icons/map-pin.svg" width="16" height="16" alt=""></picture> Tijuana, B.C., México &nbsp;·&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="icons/translate-dark.svg"><img src="icons/translate.svg" width="16" height="16" alt=""></picture> Español nativo · Inglés B1+
 
-- <picture><source media="(prefers-color-scheme: dark)" srcset="icons/plugs-connected-dark.svg"><img src="icons/plugs-connected.svg" width="16" height="16" alt=""></picture> **Integración bidireccional con ERP** (Ecount Open API) con jobs en cola, idempotencia, reintentos y conciliación de inventario.
-- <picture><source media="(prefers-color-scheme: dark)" srcset="icons/globe-dark.svg"><img src="icons/globe.svg" width="16" height="16" alt=""></picture> **Migración a SPA de un ERP legado de 1,260 rutas** con el patrón Strangler Fig: -52 % de JavaScript y -90 % en la carga del menú.
-- <picture><source media="(prefers-color-scheme: dark)" srcset="icons/robot-dark.svg"><img src="icons/robot.svg" width="16" height="16" alt=""></picture> **Sistema de RH con machine learning** (Laravel 12, React 19, Rubix ML) para 200 colaboradores en 9 plantas: resuelve el 75 % de los casos de forma automática.
-- <picture><source media="(prefers-color-scheme: dark)" srcset="icons/package-dark.svg"><img src="icons/package.svg" width="16" height="16" alt=""></picture> **Plataforma SaaS multiempresa** en tiempo real (Django 5, Channels, Celery, PostgreSQL, Redis, React + TypeScript) con 280 pruebas automatizadas y CI.
+[![Email](https://img.shields.io/badge/efrainleyva240@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:efrainleyva240@gmail.com)
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="icons/wrench-dark.svg"><img src="icons/wrench.svg" width="22" height="22" alt=""></picture> Tecnologías
+</div>
 
-[![Skills](https://skillicons.dev/icons?i=php,laravel,python,django,cs,dotnet,nodejs,express,ts,js,react,vite,tailwind,mysql,postgres,mongodb,redis,docker,nginx,azure,githubactions,git,jira&perline=8)](https://skillicons.dev)
+---
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="icons/lock-key-dark.svg"><img src="icons/lock-key.svg" width="22" height="22" alt=""></picture> Sobre mis repositorios
+Construyo software en producción para **manufactura, logística y comercio exterior**: integraciones con ERPs, sistemas de RH con machine learning, migraciones de sistemas legados sin detener la operación y plataformas SaaS en tiempo real.
 
-Mi trabajo profesional está en repositorios privados. Si quieres conocerlo, escríbeme y con gusto te muestro una demo.
+## <picture><source media="(prefers-color-scheme: dark)" srcset="icons/rocket-launch-dark.svg"><img src="icons/rocket-launch.svg" width="24" height="24" alt=""></picture> Lo que he construido
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="icons/envelope-simple-dark.svg"><img src="icons/envelope-simple.svg" width="22" height="22" alt=""></picture> Contacto
+| | Proyecto | Resultado |
+|:-:|---|---|
+| <picture><source media="(prefers-color-scheme: dark)" srcset="icons/plugs-connected-dark.svg"><img src="icons/plugs-connected.svg" width="20" height="20" alt=""></picture> | **Integración bidireccional con ERP** (Ecount Open API) | Catálogo sincronizado cada noche y movimientos de almacén en tiempo real, con colas, idempotencia y reintentos |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="icons/globe-dark.svg"><img src="icons/globe.svg" width="20" height="20" alt=""></picture> | **Migración a SPA de un ERP legado** de 1,260 rutas (Strangler Fig) | **−52 %** JavaScript · **−33 %** arranque · **−90 %** carga del menú |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="icons/robot-dark.svg"><img src="icons/robot.svg" width="20" height="20" alt=""></picture> | **Sistema de RH con machine learning** (Laravel 12, React 19, Rubix ML) | 200 colaboradores en 9 plantas · **75 %** de casos resueltos automáticamente |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="icons/scales-dark.svg"><img src="icons/scales.svg" width="20" height="20" alt=""></picture> | **Conciliación de Anexo 24** (SAT) y módulo de pedimentos | Cotejo automático partida por partida contra pedimentos aduanales |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="icons/package-dark.svg"><img src="icons/package.svg" width="20" height="20" alt=""></picture> | **Plataforma SaaS multiempresa** (Django 5, Channels, Celery, React + TS) | Tiempo real con WebSockets · **280** pruebas automatizadas · CI |
 
-[![Email](https://img.shields.io/badge/efrainleyva240@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:efrainleyva240@gmail.com)
+## <picture><source media="(prefers-color-scheme: dark)" srcset="icons/wrench-dark.svg"><img src="icons/wrench.svg" width="24" height="24" alt=""></picture> Stack
+
+<div align="center">
+
+**Backend**<br>
+<img src="https://skillicons.dev/icons?i=php,laravel,python,django,cs,dotnet,nodejs,express" alt="Backend">
+
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind" alt="Frontend">
+
+**Datos y DevOps**<br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,nginx,azure,githubactions" alt="Datos y DevOps">
+
+</div>
+
+## <picture><source media="(prefers-color-scheme: dark)" srcset="icons/chart-line-up-dark.svg"><img src="icons/chart-line-up.svg" width="24" height="24" alt=""></picture> Actividad
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=leyvatx&theme=github-dark-blue&hide_border=true&locale=es" alt="Racha de contribuciones">
+
+</div>
+
+## <picture><source media="(prefers-color-scheme: dark)" srcset="icons/lock-key-dark.svg"><img src="icons/lock-key.svg" width="24" height="24" alt=""></picture> Sobre mis repositorios
+
+Mi trabajo profesional vive en repositorios privados. Si quieres conocerlo, **escríbeme y con gusto te muestro una demo**.
