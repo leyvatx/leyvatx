@@ -17,7 +17,7 @@ Ingeniero en Desarrollo y Gestión de Software con dos años construyendo softwa
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="icons/lock-key-dark.svg"><img src="icons/lock-key.svg" width="22" height="22" alt=""></picture> Sobre mis repositorios
 
-Mi trabajo profesional está en repositorios privados. Los repositorios públicos son proyectos académicos; si quieres ver mi trabajo real, escríbeme y con gusto te muestro una demo.
+Mi trabajo profesional está en repositorios privados. Si quieres conocerlo, escríbeme y con gusto te muestro una demo.
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="icons/envelope-simple-dark.svg"><img src="icons/envelope-simple.svg" width="22" height="22" alt=""></picture> Contacto
 
