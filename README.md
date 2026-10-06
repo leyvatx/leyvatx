@@ -24,6 +24,22 @@ Construyo software en producción para **manufactura, logística y comercio exte
 | <picture><source media="(prefers-color-scheme: dark)" srcset="icons/scales-dark.svg"><img src="icons/scales.svg" width="18" height="18" align="top" alt=""></picture>&nbsp;**Conciliación de Anexo 24** (SAT) y módulo de pedimentos | Cotejo automático partida por partida contra pedimentos aduanales |
 | <picture><source media="(prefers-color-scheme: dark)" srcset="icons/package-dark.svg"><img src="icons/package.svg" width="18" height="18" align="top" alt=""></picture>&nbsp;**Plataforma SaaS multiempresa** (Django 5, Channels, Celery, React + TS) | Tiempo real con WebSockets · **280** pruebas automatizadas · CI |
 
+## <picture><source media="(prefers-color-scheme: dark)" srcset="icons/briefcase-dark.svg"><img src="icons/briefcase.svg" width="24" height="24" alt=""></picture> Experiencia
+
+**Desarrollador de Software Full-Stack** · Grupo industrial de manufactura y comercio exterior &nbsp;`sep 2025 – hoy`<br>
+<sub>Integración con ERP · Migración de sistema legado · Sistema de RH con ML · Cumplimiento aduanero · 70 suites de PHPUnit · Jira + Bitbucket en equipo de 5–10</sub>
+
+**Arquitecto y Desarrollador Full-Stack** · Proyecto independiente &nbsp;`2026 – hoy`<br>
+<sub>Plataforma SaaS multiempresa: Django 5, DRF, Channels, Celery, PostgreSQL, Redis, React + TypeScript, GitHub Actions</sub>
+
+**Desarrollador Web y Soporte de TI** · AlphaCom &nbsp;`ago 2024 – may 2025`<br>
+<sub>Plataforma web interna con Node.js, Express y MongoDB en Microsoft Azure</sub>
+
+## <picture><source media="(prefers-color-scheme: dark)" srcset="icons/graduation-cap-dark.svg"><img src="icons/graduation-cap.svg" width="24" height="24" alt=""></picture> Formación
+
+**Ingeniería en Desarrollo y Gestión de Software** · Universidad Tecnológica de Tijuana &nbsp;`2025 – 2026`<br>
+**TSU en Desarrollo de Software Multiplataforma** · Universidad Tecnológica de Tijuana &nbsp;`2022 – 2024`
+
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="icons/wrench-dark.svg"><img src="icons/wrench.svg" width="24" height="24" alt=""></picture> Stack
 
 <div align="center">
@@ -42,6 +58,8 @@ Construyo software en producción para **manufactura, logística y comercio exte
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="icons/chart-line-up-dark.svg"><img src="icons/chart-line-up.svg" width="24" height="24" alt=""></picture> Actividad
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=leyvatx&theme=github-compact&hide_border=true&area=true&bg_color=0d1117" alt="Gráfica de actividad" width="100%">
 
 <img src="https://streak-stats.demolab.com?user=leyvatx&theme=github-dark-blue&hide_border=true&locale=es" alt="Racha de contribuciones">
 
