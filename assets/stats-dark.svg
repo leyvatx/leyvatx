@@ -8,19 +8,19 @@
 <g style="font-family:'Segoe UI',-apple-system,Helvetica,Arial,sans-serif"><g class="card" style="animation-delay:0.2s">
 <rect x="6" y="6" width="276" height="148" rx="14" fill="#161b22" stroke="#30363d"/>
 <rect class="bar" x="6" y="6" width="276" height="3" rx="1.5" fill="#3fb950" style="animation-delay:0.5s"/>
-<text x="30" y="72" font-size="44" font-weight="700" fill="#3fb950" letter-spacing="-1">−90<tspan font-size="26">%</tspan></text>
-<text x="30" y="102" font-size="15" font-weight="600" fill="#e6edf3">carga del menú</text>
-<text x="30" y="130" font-size="12.5" fill="#8b949e">ERP legado de 1,260 rutas migrado a SPA</text>
+<text x="30" y="72" font-size="44" font-weight="700" fill="#3fb950" letter-spacing="-1">200<tspan font-size="26"></tspan></text>
+<text x="30" y="102" font-size="15" font-weight="600" fill="#e6edf3">personas usan mi sistema de RH</text>
+<text x="30" y="130" font-size="12.5" fill="#8b949e">En 9 plantas, con asistencia y prenómina</text>
 </g><g class="card" style="animation-delay:0.45s">
 <rect x="306" y="6" width="276" height="148" rx="14" fill="#161b22" stroke="#30363d"/>
 <rect class="bar" x="306" y="6" width="276" height="3" rx="1.5" fill="#2f81f7" style="animation-delay:0.75s"/>
-<text x="330" y="72" font-size="44" font-weight="700" fill="#2f81f7" letter-spacing="-1">75<tspan font-size="26">%</tspan></text>
-<text x="330" y="102" font-size="15" font-weight="600" fill="#e6edf3">decisiones automáticas</text>
-<text x="330" y="130" font-size="12.5" fill="#8b949e">Modelo de ML en producción para RH</text>
+<text x="330" y="72" font-size="44" font-weight="700" fill="#2f81f7" letter-spacing="-1">1,260<tspan font-size="26"></tspan></text>
+<text x="330" y="102" font-size="15" font-weight="600" fill="#e6edf3">pantallas modernizadas</text>
+<text x="330" y="130" font-size="12.5" fill="#8b949e">De un ERP antiguo, sin detener la operación</text>
 </g><g class="card" style="animation-delay:0.7s">
 <rect x="606" y="6" width="276" height="148" rx="14" fill="#161b22" stroke="#30363d"/>
 <rect class="bar" x="606" y="6" width="276" height="3" rx="1.5" fill="#a371f7" style="animation-delay:1.0s"/>
-<text x="630" y="72" font-size="44" font-weight="700" fill="#a371f7" letter-spacing="-1">280<tspan font-size="26"></tspan></text>
-<text x="630" y="102" font-size="15" font-weight="600" fill="#e6edf3">pruebas automatizadas</text>
-<text x="630" y="130" font-size="12.5" fill="#8b949e">SaaS multiempresa en tiempo real</text>
+<text x="630" y="72" font-size="44" font-weight="700" fill="#a371f7" letter-spacing="-1">50K<tspan font-size="26">+</tspan></text>
+<text x="630" y="102" font-size="15" font-weight="600" fill="#e6edf3">registros automatizados</text>
+<text x="630" y="130" font-size="12.5" fill="#8b949e">Checadores biométricos conectados con OCR</text>
 </g></g></svg>
