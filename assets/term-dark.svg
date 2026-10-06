@@ -12,10 +12,10 @@
 <text x="28" y="136"><tspan fill="#3fb950">❯</tspan> <tspan fill="#d2a8ff">~</tspan></text>
 <clipPath id="c136"><rect x="64" y="120" height="22" width="0"><animate attributeName="width" from="0" to="167.6" begin="1.74s" dur="0.67s" fill="freeze"/></rect></clipPath>
 <text x="64" y="136" fill="#e6edf3" clip-path="url(#c136)">cat experiencia.txt</text>
-<text x="28" y="160" opacity="0"><tspan fill="#3fb950">▸ </tspan><tspan fill="#e6edf3">Integré una intranet con un ERP comercial vía API</tspan><set attributeName="opacity" to="1" begin="2.76s" fill="freeze"/></text>
-<text x="28" y="182" opacity="0"><tspan fill="#3fb950">▸ </tspan><tspan fill="#e6edf3">Migré un sistema legado a React sin apagar la operación</tspan><set attributeName="opacity" to="1" begin="2.94s" fill="freeze"/></text>
-<text x="28" y="204" opacity="0"><tspan fill="#3fb950">▸ </tspan><tspan fill="#e6edf3">Metí machine learning en producción para Recursos Humanos</tspan><set attributeName="opacity" to="1" begin="3.12s" fill="freeze"/></text>
-<text x="28" y="226" opacity="0"><tspan fill="#3fb950">▸ </tspan><tspan fill="#e6edf3">Construí un SaaS multiempresa en tiempo real</tspan><set attributeName="opacity" to="1" begin="3.30s" fill="freeze"/></text>
+<text x="28" y="160" opacity="0"><tspan fill="#3fb950">▸ </tspan><tspan fill="#e6edf3">Grid Stock (Grupo Proserman) · Full-Stack · 2025–hoy</tspan><set attributeName="opacity" to="1" begin="2.76s" fill="freeze"/></text>
+<text x="28" y="182" opacity="0"><tspan fill="#3fb950">▸ </tspan><tspan fill="#e6edf3">Proyecto independiente · SaaS multiempresa · 2026–hoy</tspan><set attributeName="opacity" to="1" begin="2.94s" fill="freeze"/></text>
+<text x="28" y="204" opacity="0"><tspan fill="#3fb950">▸ </tspan><tspan fill="#e6edf3">AlphaCom · Desarrollo web y soporte TI · 2024–2025</tspan><set attributeName="opacity" to="1" begin="3.12s" fill="freeze"/></text>
+<text x="28" y="226" opacity="0"><tspan fill="#3fb950">▸ </tspan><tspan fill="#e6edf3">UTT · Ing. en Desarrollo y Gestión de Software</tspan><set attributeName="opacity" to="1" begin="3.30s" fill="freeze"/></text>
 <text x="28" y="260"><tspan fill="#3fb950">❯</tspan> <tspan fill="#d2a8ff">~</tspan></text>
 <clipPath id="c260"><rect x="64" y="244" height="22" width="0"><animate attributeName="width" from="0" to="83.60000000000001" begin="3.88s" dur="0.32s" fill="freeze"/></rect></clipPath>
 <text x="64" y="260" fill="#e6edf3" clip-path="url(#c260)">ls stack/</text>
