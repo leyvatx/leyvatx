@@ -16,13 +16,13 @@ Construyo software en producción para **manufactura, logística y comercio exte
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="icons/rocket-launch-dark.svg"><img src="icons/rocket-launch.svg" width="24" height="24" alt=""></picture> Lo que he construido
 
-| | Proyecto | Resultado |
-|:-:|---|---|
-| <picture><source media="(prefers-color-scheme: dark)" srcset="icons/plugs-connected-dark.svg"><img src="icons/plugs-connected.svg" width="20" height="20" alt=""></picture> | **Integración bidireccional con ERP** (Ecount Open API) | Catálogo sincronizado cada noche y movimientos de almacén en tiempo real, con colas, idempotencia y reintentos |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="icons/globe-dark.svg"><img src="icons/globe.svg" width="20" height="20" alt=""></picture> | **Migración a SPA de un ERP legado** de 1,260 rutas (Strangler Fig) | **−52 %** JavaScript · **−33 %** arranque · **−90 %** carga del menú |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="icons/robot-dark.svg"><img src="icons/robot.svg" width="20" height="20" alt=""></picture> | **Sistema de RH con machine learning** (Laravel 12, React 19, Rubix ML) | 200 colaboradores en 9 plantas · **75 %** de casos resueltos automáticamente |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="icons/scales-dark.svg"><img src="icons/scales.svg" width="20" height="20" alt=""></picture> | **Conciliación de Anexo 24** (SAT) y módulo de pedimentos | Cotejo automático partida por partida contra pedimentos aduanales |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="icons/package-dark.svg"><img src="icons/package.svg" width="20" height="20" alt=""></picture> | **Plataforma SaaS multiempresa** (Django 5, Channels, Celery, React + TS) | Tiempo real con WebSockets · **280** pruebas automatizadas · CI |
+| Proyecto | Resultado |
+|---|---|
+| <picture><source media="(prefers-color-scheme: dark)" srcset="icons/plugs-connected-dark.svg"><img src="icons/plugs-connected.svg" width="18" height="18" align="top" alt=""></picture>&nbsp;**Integración bidireccional con ERP** (Ecount Open API) | Catálogo sincronizado cada noche y movimientos de almacén en tiempo real, con colas, idempotencia y reintentos |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="icons/globe-dark.svg"><img src="icons/globe.svg" width="18" height="18" align="top" alt=""></picture>&nbsp;**Migración a SPA de un ERP legado** de 1,260 rutas (Strangler Fig) | **−52 %** JavaScript · **−33 %** arranque · **−90 %** carga del menú |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="icons/robot-dark.svg"><img src="icons/robot.svg" width="18" height="18" align="top" alt=""></picture>&nbsp;**Sistema de RH con machine learning** (Laravel 12, React 19, Rubix ML) | 200 colaboradores en 9 plantas · **75 %** de casos resueltos automáticamente |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="icons/scales-dark.svg"><img src="icons/scales.svg" width="18" height="18" align="top" alt=""></picture>&nbsp;**Conciliación de Anexo 24** (SAT) y módulo de pedimentos | Cotejo automático partida por partida contra pedimentos aduanales |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="icons/package-dark.svg"><img src="icons/package.svg" width="18" height="18" align="top" alt=""></picture>&nbsp;**Plataforma SaaS multiempresa** (Django 5, Channels, Celery, React + TS) | Tiempo real con WebSockets · **280** pruebas automatizadas · CI |
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="icons/wrench-dark.svg"><img src="icons/wrench.svg" width="24" height="24" alt=""></picture> Stack
 
