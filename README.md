@@ -10,7 +10,7 @@ Construyo software en producción para **manufactura, logística y comercio exte
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="icons/rocket-launch-dark.svg"><img src="icons/rocket-launch.svg" width="24" height="24" alt=""></picture> Destacado
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" alt="200 personas usan mi sistema de RH en 9 plantas · 1,260 pantallas de un ERP antiguo modernizadas sin detener la operación · más de 50,000 registros de checadores biométricos automatizados" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/highlights-dark.svg"><img src="assets/highlights-light.svg" alt="200 personas usan mi sistema de RH en 9 plantas · 1,260 pantallas de un ERP antiguo modernizadas sin detener la operación · más de 50,000 registros de checadores biométricos automatizados" width="100%"></picture>
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="icons/briefcase-dark.svg"><img src="icons/briefcase.svg" width="24" height="24" alt=""></picture> Experiencia
 
