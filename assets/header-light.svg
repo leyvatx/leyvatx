@@ -24,7 +24,7 @@
 </g>
 <rect width="900" height="260" fill="none" stroke="#d1d9e0" rx="18"/>
 <g style="font-family:'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" text-anchor="middle">
-<g class="up d1"><circle class="dot" cx="378" cy="62" r="4" fill="#3fb950"/><text x="460" y="67" font-size="14" fill="#59636e" letter-spacing="2">TIJUANA, B.C. · MÉXICO</text></g>
+<g class="up d1"><circle class="dot" cx="342" cy="62" r="4" fill="#3fb950"/><text x="460" y="67" font-size="14" fill="#59636e" letter-spacing="2">TIJUANA, B.C. · MÉXICO</text></g>
 <text class="up d2" x="450" y="128" font-size="52" font-weight="700" fill="#1f2328" letter-spacing="-1">Efraín Leyva</text>
 <line class="line" x1="320" y1="150" x2="580" y2="150" stroke="url(#g)" stroke-width="3" stroke-linecap="round"/>
 <text class="up d3" x="450" y="190" font-size="20" font-weight="600" fill="url(#g)">Software Engineer · Full-Stack Developer</text>
