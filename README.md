@@ -59,8 +59,6 @@ Construyo software en producción para **manufactura, logística y comercio exte
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=leyvatx&theme=github-compact&hide_border=true&area=true&bg_color=0d1117" alt="Gráfica de actividad" width="100%">
-
 <img src="https://streak-stats.demolab.com?user=leyvatx&theme=github-dark-blue&hide_border=true&locale=es" alt="Racha de contribuciones">
 
 </div>
