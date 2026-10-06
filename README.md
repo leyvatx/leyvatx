@@ -8,9 +8,9 @@
 
 Construyo software en producción para **manufactura, logística y comercio exterior**: integraciones con ERPs, sistemas de RH con machine learning, migraciones de sistemas legados sin detener la operación y plataformas SaaS en tiempo real.
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="icons/rocket-launch-dark.svg"><img src="icons/rocket-launch.svg" width="24" height="24" alt=""></picture> Destacado
+## <picture><source media="(prefers-color-scheme: dark)" srcset="icons/rocket-launch-dark.svg"><img src="icons/rocket-launch.svg" width="24" height="24" alt=""></picture> Sobre mí
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/highlights-dark.svg"><img src="assets/highlights-light.svg" alt="200 personas usan mi sistema de RH en 9 plantas · 1,260 pantallas de un ERP antiguo modernizadas sin detener la operación · más de 50,000 registros de checadores biométricos automatizados" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg"><img src="assets/terminal-light.svg" alt="Terminal: integré una intranet con un ERP vía API, migré un sistema legado a React sin detener la operación, llevé machine learning a producción para RH y construí un SaaS multiempresa en tiempo real. Stack: Laravel, Django, .NET, Node, React, TypeScript, PostgreSQL, Redis, Docker." width="100%"></picture>
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="icons/briefcase-dark.svg"><img src="icons/briefcase.svg" width="24" height="24" alt=""></picture> Experiencia
 
