@@ -1,6 +1,6 @@
 # <picture><source media="(prefers-color-scheme: dark)" srcset="icons/hand-waving-dark.svg"><img src="icons/hand-waving.svg" width="32" height="32" alt=""></picture> Hola, soy Efraín Leyva
 
-Desarrollador **Full Stack** en México. Construyo aplicaciones web de punta a punta: interfaces en React/TypeScript, APIs en Python, Node y C#, y despliegue con Docker.
+Desarrollador **Full Stack** en Tijuana, México. Construyo aplicaciones web de punta a punta: interfaces en React/TypeScript, APIs en Python, Node y C#, y despliegue con Docker.
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="icons/wrench-dark.svg"><img src="icons/wrench.svg" width="22" height="22" alt=""></picture> Tecnologías
 
