@@ -13,16 +13,9 @@ Desarrollador **Full Stack** en México. Construyo aplicaciones web de punta a p
 - 🤖 Proyectos de análisis de datos y machine learning con Python
 - 🐳 Contenedores y despliegue con Docker
 
-### 📌 Proyectos destacados
+### 🔒 Sobre mis repositorios
 
-| Proyecto | Stack |
-|---|---|
-| [Gummy_Lovers](https://github.com/leyvatx/Gummy_Lovers) | TypeScript · Python · Docker |
-| [FieldLink](https://github.com/leyvatx/FieldLink) | TypeScript · Python · Docker |
-| [Artemis](https://github.com/leyvatx/Artemis) | Python · Jupyter · Docker |
-| [EcoAxisProject](https://github.com/leyvatx/EcoAxisProject) | JavaScript · Python |
-| [AlphaComReal](https://github.com/leyvatx/AlphaComReal) | PHP · JavaScript · SCSS |
-| [GardenASP](https://github.com/leyvatx/GardenASP) | C# · ASP.NET |
+Mis proyectos profesionales son privados. Los repositorios públicos son proyectos académicos; si quieres ver mi trabajo real, contáctame y con gusto te muestro una demo.
 
 ### 📫 Contacto
 
